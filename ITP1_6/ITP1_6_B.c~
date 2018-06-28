@@ -1,0 +1,27 @@
+#include<stdio.h>
+
+#define N 52 
+//n<=52
+int main(){
+  int n;
+  int i;
+  int A[N];
+  char ch[N];
+  
+  scanf("%c %d", &ch, &n);
+
+  for(i=1; i<=n; i++){
+
+    scanf("%c", &ch);
+    scanf("%c %d", &ch, &x);
+
+  }
+
+
+
+  }
+
+
+  
+  return 0;
+}
